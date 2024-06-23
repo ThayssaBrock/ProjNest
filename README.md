@@ -4,7 +4,8 @@
 ### Desenvolvido em Node.js (versão 20.10) e Nest.JS
 
 Projeto criado durante segunda parte da disciplina de desenvolvimento web 2.
-Professor: Denny Azevedo
+
+## Professor: Denny Azevedo
 
 #### Pacotes Utilizados
 
